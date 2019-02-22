@@ -2,7 +2,7 @@ ItemNames:
 	db "MASTER BALL@"
 	db "ULTRA BALL@"
 	db "GREAT BALL@"
-	db "POKé BALL@"
+	db "CLEFAIRY@"
 	db "TOWN MAP@"
 	db "BICYCLE@"
 	db "?????@"
